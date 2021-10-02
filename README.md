@@ -1,5 +1,5 @@
 # 01-mppl
-Tiga MPPL Yang Mewakili Klasik / Agile
+Tiga MPPL Yang Mewakili Klasik maupun Agile
 1. Agile Modeling
     Agile Modeling adalah kumpulan nilai, prinsip, dan praktik untuk pemodelan perangkat lunak yang dapat diterapkan pada proyek pengembangan perangkat lunak secara efektif dan ringan
 2. Adaptive Software Development
